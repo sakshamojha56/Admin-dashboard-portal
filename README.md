@@ -9,8 +9,6 @@
 
 ## 🌐 Live Demo
 
-**🔗 Production**: [https://admin-dashboard-portal-cdc.vercel.app](https://admin-dashboard-portal-cdc.vercel.app)
-
 > **Note**: Google OAuth authentication required. Create your own account or use Google to sign in.
 
 ---
